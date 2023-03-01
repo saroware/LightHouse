@@ -1,0 +1,12 @@
+F:\myblogs\Programming\Lighthouse\LightHouse\LightHouse.Domain_layer\bin\Debug\net7.0\LightHouse.Domain_layer.deps.json
+F:\myblogs\Programming\Lighthouse\LightHouse\LightHouse.Domain_layer\bin\Debug\net7.0\LightHouse.Domain_layer.dll
+F:\myblogs\Programming\Lighthouse\LightHouse\LightHouse.Domain_layer\bin\Debug\net7.0\LightHouse.Domain_layer.pdb
+F:\myblogs\Programming\Lighthouse\LightHouse\LightHouse.Domain_layer\obj\Debug\net7.0\LightHouse.Domain_layer.csproj.AssemblyReference.cache
+F:\myblogs\Programming\Lighthouse\LightHouse\LightHouse.Domain_layer\obj\Debug\net7.0\LightHouse.Domain_layer.GeneratedMSBuildEditorConfig.editorconfig
+F:\myblogs\Programming\Lighthouse\LightHouse\LightHouse.Domain_layer\obj\Debug\net7.0\LightHouse.Domain_layer.AssemblyInfoInputs.cache
+F:\myblogs\Programming\Lighthouse\LightHouse\LightHouse.Domain_layer\obj\Debug\net7.0\LightHouse.Domain_layer.AssemblyInfo.cs
+F:\myblogs\Programming\Lighthouse\LightHouse\LightHouse.Domain_layer\obj\Debug\net7.0\LightHouse.Domain_layer.csproj.CoreCompileInputs.cache
+F:\myblogs\Programming\Lighthouse\LightHouse\LightHouse.Domain_layer\obj\Debug\net7.0\LightHouse.Domain_layer.dll
+F:\myblogs\Programming\Lighthouse\LightHouse\LightHouse.Domain_layer\obj\Debug\net7.0\refint\LightHouse.Domain_layer.dll
+F:\myblogs\Programming\Lighthouse\LightHouse\LightHouse.Domain_layer\obj\Debug\net7.0\LightHouse.Domain_layer.pdb
+F:\myblogs\Programming\Lighthouse\LightHouse\LightHouse.Domain_layer\obj\Debug\net7.0\ref\LightHouse.Domain_layer.dll

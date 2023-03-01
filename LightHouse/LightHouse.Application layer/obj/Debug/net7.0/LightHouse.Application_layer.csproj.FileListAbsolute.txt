@@ -1,0 +1,12 @@
+F:\myblogs\Programming\Lighthouse\LightHouse\LightHouse.Application layer\bin\Debug\net7.0\LightHouse.Application_layer.deps.json
+F:\myblogs\Programming\Lighthouse\LightHouse\LightHouse.Application layer\bin\Debug\net7.0\LightHouse.Application_layer.dll
+F:\myblogs\Programming\Lighthouse\LightHouse\LightHouse.Application layer\bin\Debug\net7.0\LightHouse.Application_layer.pdb
+F:\myblogs\Programming\Lighthouse\LightHouse\LightHouse.Application layer\obj\Debug\net7.0\LightHouse.Application_layer.csproj.AssemblyReference.cache
+F:\myblogs\Programming\Lighthouse\LightHouse\LightHouse.Application layer\obj\Debug\net7.0\LightHouse.Application_layer.GeneratedMSBuildEditorConfig.editorconfig
+F:\myblogs\Programming\Lighthouse\LightHouse\LightHouse.Application layer\obj\Debug\net7.0\LightHouse.Application_layer.AssemblyInfoInputs.cache
+F:\myblogs\Programming\Lighthouse\LightHouse\LightHouse.Application layer\obj\Debug\net7.0\LightHouse.Application_layer.AssemblyInfo.cs
+F:\myblogs\Programming\Lighthouse\LightHouse\LightHouse.Application layer\obj\Debug\net7.0\LightHouse.Application_layer.csproj.CoreCompileInputs.cache
+F:\myblogs\Programming\Lighthouse\LightHouse\LightHouse.Application layer\obj\Debug\net7.0\LightHouse.Application_layer.dll
+F:\myblogs\Programming\Lighthouse\LightHouse\LightHouse.Application layer\obj\Debug\net7.0\refint\LightHouse.Application_layer.dll
+F:\myblogs\Programming\Lighthouse\LightHouse\LightHouse.Application layer\obj\Debug\net7.0\LightHouse.Application_layer.pdb
+F:\myblogs\Programming\Lighthouse\LightHouse\LightHouse.Application layer\obj\Debug\net7.0\ref\LightHouse.Application_layer.dll
